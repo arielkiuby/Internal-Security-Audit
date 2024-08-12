@@ -16,4 +16,4 @@ The task is to review the IT manager’s scope, goals, and risk assessment repor
 
 Links to supporting materials:
 
-* [Scope, Goals, & Risks Assessment Report](Scope, Goals, & Risk Assessment Report.md)
+* [Scope, Goals, & Risks Assessment Report](Scope-Goals-&-Risk-Assessment-Report.md)
